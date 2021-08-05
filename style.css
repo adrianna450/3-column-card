@@ -222,7 +222,7 @@ body {
   border-radius: 0 0 5px 5px;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 925px) {
   .Main-Car-Component {
     flex-direction: row;
     justify-content: space-evenly;
